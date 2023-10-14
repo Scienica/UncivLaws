@@ -1,0 +1,23 @@
+[
+
+//Classical Era
+{
+		"name": "Courthouse",
+		"maintenance": 4,
+		"hurryCostModifier": 50,
+		"Happiness": 1,
+		"Culture": 1,
+		"uniques": ["Remove extra unhappiness from annexed cities",
+							 
+		"requiredTech": "Mathematics"
+		"Allows Creation of Law Buildings"
+	},
+
+{
+		"name": "Local Draft",
+		"maintenance": 2
+		"Unhappiness": 2
+		"Culture": -3
+		"uniques": "[1] unit costs no maintence for every [5] population in this city"
+							 "[Barracks] and [Armory] in this city have no effect"
+]
